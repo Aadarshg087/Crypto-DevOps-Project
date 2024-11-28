@@ -2,6 +2,7 @@
 
 This project is a  basic cryptocurrency website built with HTML, CSS, and basic JavaScript. For development efficiency, Docker is used to containerize the application, ensuring consistent environments. Jenkins is integrated for continuous integration, automating the build and deployment processes. The website is hosted on AWS, providing a scalable and reliable platform for deployment. This project also incorporates DevOps practices, enhancing collaboration and efficiency throughout the development lifecycle.
 
+
 ## Technologies Used
 - [Docker](https://www.docker.com/) - Containerization
 - [Jenkins](https://www.jenkins.io/) - Continuous Integration
